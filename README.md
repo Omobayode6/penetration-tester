@@ -18,8 +18,8 @@ Hackers (security consultants)
 Defenders (security analysts fighting cybercrime)  
 
 **Offensive security roles:**  
-**Penetration Tester** - Responsible for testing technology products to find exploitable security vulnerabilities.
-**Red Teamer** - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.
+**Penetration Tester** - Responsible for testing technology products to find exploitable security vulnerabilities.  
+**Red Teamer** - Plays the role of an adversary, attacking an organization and providing feedback from an enemy's perspective.  
 **Security Engineer** - Design, monitor, and maintain security controls, networks, and systems to help prevent cyberattacks.  
 
 ## Intro to Defensive Security  
